@@ -7,3 +7,7 @@ desired ideas and to code it as well.
 
 If you use VS Code and Terminal / Command Prompt to run your application, then use 
 'dotnet run', it will run your whole program!
+
+## Important
+
+This project was made with my Project Automatization python script, that is one of my reposytories
