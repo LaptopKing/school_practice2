@@ -10,4 +10,4 @@ If you use VS Code and Terminal / Command Prompt to run your application, then u
 
 ## Important
 
-This project was made with my Project Automatization python script, that is one of my reposytories
+This project was made with my Project Automatization python script, that is one of my repositories
