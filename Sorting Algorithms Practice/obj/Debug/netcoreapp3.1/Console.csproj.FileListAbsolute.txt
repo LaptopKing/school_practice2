@@ -1,0 +1,13 @@
+/media/csordasp/08C6F48AC6F478F0/Minden egyben/Visual Studio/Sorting Algorithms Practice/obj/Debug/netcoreapp3.1/Console.csprojAssemblyReference.cache
+/media/csordasp/08C6F48AC6F478F0/Minden egyben/Visual Studio/Sorting Algorithms Practice/obj/Debug/netcoreapp3.1/Console.AssemblyInfoInputs.cache
+/media/csordasp/08C6F48AC6F478F0/Minden egyben/Visual Studio/Sorting Algorithms Practice/obj/Debug/netcoreapp3.1/Console.AssemblyInfo.cs
+/media/csordasp/08C6F48AC6F478F0/Minden egyben/Visual Studio/Sorting Algorithms Practice/obj/Debug/netcoreapp3.1/Console.csproj.CoreCompileInputs.cache
+/media/csordasp/08C6F48AC6F478F0/Minden egyben/Visual Studio/Sorting Algorithms Practice/bin/Debug/netcoreapp3.1/Console
+/media/csordasp/08C6F48AC6F478F0/Minden egyben/Visual Studio/Sorting Algorithms Practice/bin/Debug/netcoreapp3.1/Console.deps.json
+/media/csordasp/08C6F48AC6F478F0/Minden egyben/Visual Studio/Sorting Algorithms Practice/bin/Debug/netcoreapp3.1/Console.runtimeconfig.json
+/media/csordasp/08C6F48AC6F478F0/Minden egyben/Visual Studio/Sorting Algorithms Practice/bin/Debug/netcoreapp3.1/Console.runtimeconfig.dev.json
+/media/csordasp/08C6F48AC6F478F0/Minden egyben/Visual Studio/Sorting Algorithms Practice/bin/Debug/netcoreapp3.1/Console.dll
+/media/csordasp/08C6F48AC6F478F0/Minden egyben/Visual Studio/Sorting Algorithms Practice/bin/Debug/netcoreapp3.1/Console.pdb
+/media/csordasp/08C6F48AC6F478F0/Minden egyben/Visual Studio/Sorting Algorithms Practice/obj/Debug/netcoreapp3.1/Console.dll
+/media/csordasp/08C6F48AC6F478F0/Minden egyben/Visual Studio/Sorting Algorithms Practice/obj/Debug/netcoreapp3.1/Console.pdb
+/media/csordasp/08C6F48AC6F478F0/Minden egyben/Visual Studio/Sorting Algorithms Practice/obj/Debug/netcoreapp3.1/Console.genruntimeconfig.cache
